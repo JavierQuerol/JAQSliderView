@@ -9,8 +9,6 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
-
 ## Installation
 
 JAQSliderView is available through [CocoaPods](http://cocoapods.org). To install
@@ -21,6 +19,8 @@ it, simply add the following line to your Podfile:
 ## Author
 
 Javier Querol, querol.javi@gmail.com
+
+This Project is based on [Javier Berlana's](http://github.com/jberlana) project [JBKenBurns](http://github.com/jberlana/JBKenBurns)
 
 ## License
 
