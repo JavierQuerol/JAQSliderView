@@ -12,10 +12,7 @@ Pod::Spec.new do |s|
   s.version          = "0.1.0"
   s.summary          = "Image Slider View with automatic image loader (tappable)"
   s.description      = <<-DESC
-                       An optional longer description of JAQSliderView
-
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
+                       Image Slider View that takes objects that conforms to a protocol in order to provide an image url and a content url, so the slider automatically gets the images from the urls and shows them in the slider. The slider is tappable and has a delegate to know which object was tapped. 
                        DESC
   s.homepage         = "https://github.com/javierquerol/JAQSliderView"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
